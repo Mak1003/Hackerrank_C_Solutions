@@ -47,3 +47,62 @@ Here are a few examples of problems you’ll find in this repo:
 git clone https://github.com/Mak1003/Hackerrank_C_Solutions.git
 cd Hackerrank_C_Solutions
 ```
+
+## 🎯 Purpose of This Repository
+
+📘 Educational Resource: Helps beginners understand how to structure C programs for common challenges.
+
+🧠 Interview Preparation: Strengthens C problem-solving logic and syntax familiarity.
+
+⚡ Quick Reference: Acts as a code library for revising standard problems quickly.
+
+## 🔮 Future Plans
+
+Add more categories like Bit Manipulation and Data Structures.
+
+Include problem statements with each solution as comments.
+
+Add sample inputs and outputs in each file header.
+
+Create Makefile to compile all challenges in one go.
+
+Write unit tests for function-based challenges.
+
+## 🤝 Contributing
+
+Contributions are always welcome!
+If you’d like to add more solutions or improve existing ones:
+
+Fork the repository
+
+Create a new branch
+
+git checkout -b add-new-solution
+
+
+Commit your changes
+```
+git commit -m "Added solution for [Challenge Name]"
+```
+
+Push to your fork and open a Pull Request
+
+Please follow the existing folder naming structure (topic-wise).
+
+🧾 License
+
+This project is licensed under the MIT License — see the LICENSE
+ file for details.
+You can freely use, modify, and distribute the code with proper credit.
+
+## 👨‍💻 Author
+
+Mahesh Anil Kharote
+
+📧 maheshkharote2580@gmail.com
+
+
+## ⭐ Support
+
+If you found this repository helpful, please consider giving it a ⭐ on GitHub!
+It motivates me to continue sharing and expanding the collection.
